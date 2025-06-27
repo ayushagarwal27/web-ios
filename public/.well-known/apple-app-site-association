@@ -3,7 +3,7 @@
     "apps": [],
     "details": [
       {
-        "appID": "ABC123DEFG.com.fluff123.privy",
+        "appID": "34T5NZ3P5A.com.fluff123.privy",
         "paths": ["/app/*", "/redirect/*", "/sher/*"]
       }
     ]
